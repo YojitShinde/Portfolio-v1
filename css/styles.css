@@ -10969,4 +10969,72 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+  
+}
+
+.content{
+  color:#fff;
+}
+
+.heading{
+  color:#fff;
+  font-size: 1.4rem;
+}
+
+.foot{
+  font-size: 1.2rem;
+}
+
+.card-1 {
+  position: relative;
+  display: inline-block;
+  align-items: center;
+  width: 320px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  padding: 32px;
+  overflow: hidden;
+  border-radius: 10px;
+  background-color: #495057;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+
+.card-1:hover{
+  background-color: #1e2125;
+}
+
+.card-2 {
+  position: relative;
+  display: inline-block;
+  align-items: center;
+  width: 320px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  padding: 32px;
+  overflow: hidden;
+  border-radius: 10px;
+  background-color: #495057;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+
+.card-2:hover{
+  background-color: #1e2125;
+}
+
+.card-3 {
+  position: relative;
+  display: inline-block;
+  align-items: center;
+  width: 320px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  padding: 32px;
+  overflow: hidden;
+  border-radius: 10px;
+  background-color: #495057;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+
+.card-3:hover{
+  background-color: #1e2125;
 }

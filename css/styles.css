@@ -11038,3 +11038,11 @@ section.resume-section .resume-section-content {
 .card-3:hover{
   background-color: #1e2125;
 }
+
+.image{
+  opacity: 0.7;
+}
+
+.image:hover{
+  opacity: 1; 
+}
